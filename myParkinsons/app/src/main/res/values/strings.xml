@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Parkinsons</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_graph">Graph</string>
+    <string name="title_activity_view_data">ViewData</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_survery">Survery</string>
+    <string name="title_activity_survey">Survey</string>
+</resources>
